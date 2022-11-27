@@ -1,7 +1,7 @@
 # IJCAI2021-GSPL
 This is the code for 
 
-A Succinct Kernel Model for Group-Sparse Subspaces Learning of Multiview Data 
+GSPL: A Succinct Kernel Model for Group-Sparse Subspaces Learning of Multiview Data 
 
 Danyang Wu, Jin Xu, Xia Dong, Meng Liao, Rong Wang, Feiping Nie, Xuelong Li 
 
